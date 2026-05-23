@@ -16,14 +16,13 @@ int main() {
         long long S_min = k * (k + 1) / 2;
         long long S_max = k * (2 * n - k + 1) / 2;
  
+        string ans = "YES";
         if(x < S_min || x > S_max) {
-            cout << "NO 
-";
-            continue;
+            ans = "NO";
         }
  
-        cout << "YES 
-";
+        cout << ans << '
+';
     }
  
     return 0;
