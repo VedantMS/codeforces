@@ -6,16 +6,17 @@ void solve() {
     int n;
     cin >> n;
  
-    vector<int> a(n);
-    for(auto &it : a) {
-        cin >> it;
-    }
+    int ans;
+    cin >> ans;
  
     for(int i = 1; i < n; i++) {
-        a[i] &= a[i - 1];
+        int num;
+        cin >> num;
+ 
+        ans &= num;
     }
  
-    cout << a[n - 1] << '
+    cout << ans << '
 ';
 }
  
