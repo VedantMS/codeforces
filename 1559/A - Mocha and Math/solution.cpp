@@ -16,7 +16,7 @@ void solve() {
     }
  
     cout << a[n - 1] << '
-'; 
+';
 }
  
 int main() {
