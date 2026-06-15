@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [games](#games) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (1)
 
 ---
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 
 ### greedy
 
