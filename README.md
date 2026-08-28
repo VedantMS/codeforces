@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
+- [dsu](#dsu) (1)
 - [games](#games) (1)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [schedules](#schedules) (1)
@@ -37,6 +38,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
 
 ### games
 
@@ -49,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+| 977E | [Cyclic Components](https://codeforces.com/contest/977/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/977/E%20-%20Cyclic%20Components/solution.cpp) |
 
 ### greedy
 
