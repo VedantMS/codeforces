@@ -6,15 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (5)
+- [dfs and similar](#dfs-and-similar) (1)
 - [games](#games) (1)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
+- [implementation](#implementation) (1)
 - [schedules](#schedules) (1)
 
 ---
@@ -29,17 +32,35 @@
 | 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 
 ### schedules
 
