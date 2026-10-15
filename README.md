@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 9 |
+| 10 | 10 |
 
 ---
 
@@ -20,6 +20,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
+- [number theory](#number-theory) (1)
 - [schedules](#schedules) (1)
 
 ---
@@ -80,6 +81,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/VedantMS/codeforces/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 
 ### schedules
 
